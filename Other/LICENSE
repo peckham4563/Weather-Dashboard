@@ -1,27 +1,3 @@
-﻿# Weather-Dash
- 
-## Description
-This repository contains HTML, CSS, and JavaScript files that were written in order to demonstrate my knowledge of having the ability to make an API call to another websites library. I created the website using HTML and CSS and used thet JavaScript to make the API call to obtain information about the weather of different cities around the world.
-
-## Installation
-N/A
-
-## Usage
-
-The usage of this webite is to be able to input a city of your choosing and have the API call fetch information about this city like the temperature, wind, and humidity. The webpage can also save recent searches of different cities and show the future weather conditions in the next days to come. 
-
-## Website URL
-
-https://peckham4563.github.io/Weather-Dash/
-
-![Screenshot](/Assets/Weather-Screenshot.png "Webpage Screenshot")
-
-## Credits
-
-N/A
-
-## License
-
 MIT License
 
 Copyright (c) 2022 peckham4563
